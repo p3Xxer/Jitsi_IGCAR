@@ -1,5 +1,5 @@
 # <p align="center">Jitsi Meet</p>
 
-Use the following command in terminal after cloning the project
+After cloning the project use the following command to run it
 
 make dev
